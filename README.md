@@ -17,29 +17,56 @@
 
 ---
 
-🚀 Tech Stack📊 Machine Learning & Data ScienceI specialize in building reliable and high-performance ML pipelines using modern open-source tools:
-Data processing & analysis: pandas, statsmodels, seaborn, matplotlib, plotly
-Classical ML models: scikit-learn, XGBoost, LightGBM, CatBoost
-Deep Learning: TensorFlow, PyTorch — from prototyping to model deployment
-Model tracking & optimization: MLflow for experiment tracking, Optuna for hyperparameter tuning
-💡 I apply machine learning not just for experimentation, but for real-world industrial and business tasks, especially in the oil & gas sector.
-🧠 MLOps & Model DeploymentI actively bridge the gap between Data Science and Production:
-Model serving: via RESTful APIs using FastAPI, Flask
-Deployment: with Docker containers for reproducibility and scalability
-Monitoring: use of tools like Prometheus and Grafana for observability and performance tracking
-MLflow: used for managing lifecycle of models — from training to deployment
-⚙️ My focus is on creating end-to-end pipelines that are stable, observable, and ready for integration into real production environments.
-🌐 Fullstack DevelopmentI build web applications from scratch, covering both backend and frontend:
-Frontend: React, with tools like Redux, Tailwind CSS, React Router, and modern UI practices
-Backend: FastAPI and Flask for high-performance APIs, Django for full-stack web apps
-Databases: Strong working knowledge of PostgreSQL and SQLite, including query optimization and schema design
-🛠 I combine elegant frontends with robust backends to deliver user-friendly, high-performance applications.
-📱 Mobile DevelopmentLanguage: Java
-UX: Proficient in Material Design principles to build consistent, modern Android applications
-📱 Although web and ML are my main areas, I also have a solid foundation in Android development, especially for internal tools and MVPs.
-☁️ Cloud, Auth & DevOpsCloud Platforms: experience with Yandex Cloud, use of Google Auth for secure authentication
-DevOps Tools: Docker for consistent deployments, bash scripting and CI familiarity
-🌐 I'm comfortable managing small-scale infrastructure and deployments for ML and web projects.
+### 🚀 Tech Stack
+
+#### 📊 Machine Learning & Data Science
+
+- 🧮 Data processing & analysis: `pandas`, `statsmodels`, `seaborn`, `matplotlib`, `plotly`
+- 📈 Classical ML models: `scikit-learn`, `XGBoost`, `LightGBM`, `CatBoost`
+- 🧠 Deep Learning: `TensorFlow`, `PyTorch`
+- 🔁 Model tracking & optimization: `MLflow`, `Optuna`
+
+💡 *I apply machine learning not just for experimentation, but for real-world industrial and business tasks, especially in the oil & gas sector.*
+
+---
+
+#### 🧠 MLOps & Model Deployment
+
+- 🌐 Model serving: via RESTful APIs using `FastAPI`, `Flask`
+- 📦 Deployment: with `Docker` containers for reproducibility and scalability
+- 📊 Monitoring: use of tools like `Prometheus`, `Grafana` for observability and performance tracking
+- 🔁 Lifecycle management: `MLflow`
+
+⚙️ *Focus on end-to-end ML pipelines that are stable, observable, and production-ready.*
+
+---
+
+#### 🌐 Fullstack Development
+
+- 🖥️ Frontend: `React`, with tools like `Redux`, `Tailwind CSS`, `React Router`, and modern UI practic
+- ⚙️ Backend: `FastAPI` and `Flask` for high-performance APIs, `Django` for full-stack web apps
+- 🗄️ DB: Strong working knowledge of `PostgreSQL` and `SQLite`, including query optimization and schema design
+
+🛠 *I combine elegant frontends with robust backends to deliver user-friendly, high-performance applications.*
+
+---
+
+#### 📱 Mobile Development
+
+- ☕ Java for Android
+- 🎨 Material Design for UX consistency
+
+📱 *Although web and ML are my main areas, I also have a solid foundation in Android development, especially for internal tools and MVPs.*
+
+---
+
+#### ☁️ Cloud, Auth & DevOps
+
+- ☁️ Cloud: `Yandex Cloud`, `Google Auth`
+- 🔧 DevOps: `Docker`, Bash scripting, basic CI
+
+🌐 *Managing infrastructure and delivery pipelines confidently.*
+
 ---
 
 ### 💼 Leadership & Personal Qualities
