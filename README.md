@@ -17,21 +17,29 @@
 
 ---
 
-### 🚀 Tech Stack
-
-#### Machine Learning & Data
-![Python](https://img.shields.io/badge/Python-ML%20%7C%20Pandas%20%7C%20Sklearn%20%7C%20XGBoost%20%7C%20PyTorch%20etc.-yellow?style=flat-square&logo=python)
-
-#### Web Development
-![React](https://img.shields.io/badge/React-Frontend-blue?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-Server-green?style=flat-square&logo=node.js)
-![Database](https://img.shields.io/badge/PostgreSQL%20%7C%20MongoDB-Database-blue?style=flat-square&logo=postgresql)
-
-#### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux)
-
+🚀 Tech Stack📊 Machine Learning & Data ScienceI specialize in building reliable and high-performance ML pipelines using modern open-source tools:
+Data processing & analysis: pandas, statsmodels, seaborn, matplotlib, plotly
+Classical ML models: scikit-learn, XGBoost, LightGBM, CatBoost
+Deep Learning: TensorFlow, PyTorch — from prototyping to model deployment
+Model tracking & optimization: MLflow for experiment tracking, Optuna for hyperparameter tuning
+💡 I apply machine learning not just for experimentation, but for real-world industrial and business tasks, especially in the oil & gas sector.
+🧠 MLOps & Model DeploymentI actively bridge the gap between Data Science and Production:
+Model serving: via RESTful APIs using FastAPI, Flask
+Deployment: with Docker containers for reproducibility and scalability
+Monitoring: use of tools like Prometheus and Grafana for observability and performance tracking
+MLflow: used for managing lifecycle of models — from training to deployment
+⚙️ My focus is on creating end-to-end pipelines that are stable, observable, and ready for integration into real production environments.
+🌐 Fullstack DevelopmentI build web applications from scratch, covering both backend and frontend:
+Frontend: React, with tools like Redux, Tailwind CSS, React Router, and modern UI practices
+Backend: FastAPI and Flask for high-performance APIs, Django for full-stack web apps
+Databases: Strong working knowledge of PostgreSQL and SQLite, including query optimization and schema design
+🛠 I combine elegant frontends with robust backends to deliver user-friendly, high-performance applications.
+📱 Mobile DevelopmentLanguage: Java
+UX: Proficient in Material Design principles to build consistent, modern Android applications
+📱 Although web and ML are my main areas, I also have a solid foundation in Android development, especially for internal tools and MVPs.
+☁️ Cloud, Auth & DevOpsCloud Platforms: experience with Yandex Cloud, use of Google Auth for secure authentication
+DevOps Tools: Docker for consistent deployments, bash scripting and CI familiarity
+🌐 I'm comfortable managing small-scale infrastructure and deployments for ML and web projects.
 ---
 
 ### 💼 Leadership & Personal Qualities
@@ -59,3 +67,5 @@
 
 - 📧 Email: [bogdanaleksandruk@yandex.ru]
 - 💬 Telegram: [@AleksandrukBogdan]
+
+Let's build something awesome together 🚀
