@@ -1,98 +1,30 @@
-<h1 align="center">Hi there! I'm Bogdan</h1>
+# Богдан Александрук
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=ML+Engineer+%26+Fullstack+Developer;IT+Innovator+in+Oil+%26+Gas;Leading+with+Code+%26+Vision" alt="Typing SVG" />
-</p>
+**AI/ML Engineer.** Четыре года коммерческой разработки: классический ML в нефтегазе, затем промышленные продукты на LLM и автономных агентах.
 
----
+Санкт-Петербург, удалённо · [aleksandruk.pro](https://aleksandruk.pro) · [hello@baleksandruk.ru](mailto:hello@baleksandruk.ru) · [Telegram](https://t.me/AleksandrukBogdan)
 
-### About Me
+## Опыт
 
-- Student at Saint Petersburg Mining University, Russia
-- Head of Advanced Analytics & Machine Learning at **GazstroyProm**
-- Actively deploying **IT and ML** solutions in traditionally non-digital environments
-- Passionate about **innovation** in IT and **digital transformation** of industrial sectors
-- Interested in the intersection of **practical machine learning** and **oil & gas**
-- Tech-savvy **manager who codes**, not just coordinates
+**УГМК** — AI/ML Engineer, с ноября 2025.  
+Корпоративная AI-платформа. Чат на LangGraph: веб-поиск, RAG по документам, память диалога и вызов внутренних сервисов. Графовый поиск на Neo4j. Сервисы смет и сравнения тендерных КП с техническим заданием. Ядро на FastAPI, Temporal и K3s; качество держат golden-кейсы, TruLens и цитаты из исходных документов.
 
----
+**Газстройпром** (группа «Газпром») — AI/ML Engineer, 2025.  
+Генерация технических заданий по бизнес-запросам, бот внутренней поддержки, проверка уставов через компьютерное зрение и OCR, прогноз цен на авиабилеты, предиктивное обслуживание оборудования.
 
-### Tech Stack
+**Лаборатория «Газпром нефть»** — AI/ML Engineer, 2022–2024.  
+Модель вероятности ДТП для планирования маршрутов, дашборды по телеметрии, исследования для нефтегаза: патенты и публикации.
 
-#### Machine Learning & Data Science
+## Учёба
 
-- Data processing & analysis: `pandas`, `statsmodels`, `seaborn`, `matplotlib`, `plotly`
-- Classical ML models: `scikit-learn`, `XGBoost`, `LightGBM`, `CatBoost`
-- Deep Learning: `TensorFlow`, `PyTorch`
-- Model tracking & optimization: `MLflow`, `Optuna`
+Магистратура ИТМО, «Проектирование и разработка систем искусственного интеллекта», выпуск 2028.  
+Бакалавриат, нефтегазовое дело, Санкт-Петербургский горный университет, выпуск 2026.
 
-*I apply machine learning not just for experimentation, but for real-world industrial and business tasks, especially in the oil & gas sector.*
+## Стек
 
----
+Python, FastAPI, LangGraph, vLLM, RAG (Milvus, BGE-M3, HyDE), Temporal, PostgreSQL, Neo4j, Docker, K3s.
 
-#### MLOps & Model Deployment
+## На GitHub
 
-- Model serving: via RESTful APIs using `FastAPI`, `Flask`
-- Deployment: with `Docker` containers for reproducibility and scalability
-- Monitoring: use of tools like `Prometheus`, `Grafana` for observability and performance tracking
-- Lifecycle management: `MLflow`
-
-⚙*Focus on end-to-end ML pipelines that are stable, observable, and production-ready.*
-
----
-
-#### Fullstack Development
-
-- Frontend: `React`, with tools like `Redux`, `Tailwind CSS`, `React Router`, and modern UI practic
-- Backend: `FastAPI` and `Flask` for high-performance APIs, `Django` for full-stack web apps
-- DB: Strong working knowledge of `PostgreSQL` and `SQLite`, including query optimization and schema design
-
-*I combine elegant frontends with robust backends to deliver user-friendly, high-performance applications.*
-
----
-
-#### Mobile Development
-
-- Java for Android
-- Material Design for UX consistency
-
-*Although web and ML are my main areas, I also have a solid foundation in Android development, especially for internal tools and MVPs.*
-
----
-
-#### Cloud, Auth & DevOps
-
-- Cloud: `Yandex Cloud`, `Google Auth`
-- DevOps: `Docker`, Bash scripting, basic CI
-
-*Managing infrastructure and delivery pipelines confidently.*
-
----
-
-### Leadership & Personal Qualities
-
-> I am not just a manager — I'm a **coding leader** with strong hands-on skills.
-
-- Analytical mindset
-- Detail-oriented and results-driven
-- Highly disciplined and reliable
-- Excellent team leadership and cross-functional collaboration
-- Strategic thinking with a hands-on approach
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleksandrukbogdan&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aleksandrukbogdan&theme=tokyonight" />
-</p>
-
----
-
-### Connect with Me
-
-- 📧 Email: [bogdanaleksandruk@yandex.ru]
-- 💬 Telegram: [@AleksandrukBogdan]
-
-Let's build something awesome together 🚀
+- [sberquad-retrieval](https://github.com/aleksandrukbogdan/sberquad-retrieval) — поиск абзаца-ответа на SberQuAD: BM25, плотные кодировщики, слияние рангов и реранкинг.
+- [final_project_itmo](https://github.com/aleksandrukbogdan/final_project_itmo) — мультиагентная оценка кандидатов на техническом интервью.
